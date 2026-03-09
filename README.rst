@@ -76,3 +76,8 @@ Steps to Contribute in repository:
    :target: https://www.djangoproject.com/
     :alt: Django
 
+
+## Like/Reaction System
+- Users can react to posts with 👍 ❤️ 😂 😢 😡
+- One reaction per user per post
+- Real-time update without page reload
